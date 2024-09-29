@@ -1,5 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome%20to%20Hansol%20Github!&fontColor=FFFFFF&fontSize=40&fontAlign=50" />
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=&fontColor=FFFFFF&fontSize=40&fontAlign=50" />
+</div>
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome%20to%20Hansol%20Github!👋" alt="Typing SVG">
+</div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ 
 
 <h2>:sunglasses:About Me:v:</h2>
 안녕하세요 주니어 프론트엔드 개발자 배한솔입니다. </br>
