@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome%20to%20Hansol%20Github!&fontColor=FFFFFF&fontSize=40&fontAlign=60" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome%20to%20Hansol%20Github!&fontColor=FFFFFF&fontSize=40&fontAlign=50" />
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <h2>:sunglasses:About Me:v:</h2>
